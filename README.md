@@ -1,1 +1,1 @@
-Обучение Git
+Hello, Hexlet! How are you?
